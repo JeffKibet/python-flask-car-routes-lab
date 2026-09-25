@@ -41,4 +41,4 @@ cd server
 pipenv run pytest
 ```
 
-![App running](screenshot.png)
+![App running]
